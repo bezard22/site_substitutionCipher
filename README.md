@@ -1,2 +1,2 @@
-# site_subtractionCipher
-BenjaminEzard.com subtraction cipher Article
+# site_substitutionCipher
+BenjaminEzard.com substitution cipher article
