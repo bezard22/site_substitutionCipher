@@ -1,3 +1,11 @@
 div {
     margin-bottom: 5px;
 }
+
+.keyspan {
+    margin-right: 5px;
+}
+
+.keyspan input {
+    width: 15px;
+}
